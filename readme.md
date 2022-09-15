@@ -115,6 +115,3 @@ store for the application.
 
  The project is still in development
 
-## License
-
-MIT © 
