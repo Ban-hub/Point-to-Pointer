@@ -113,5 +113,5 @@ store for the application.
 
 ## State of the project
 
- The project is still in development
+ The project is still incomplete and halted development
 
