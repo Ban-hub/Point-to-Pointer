@@ -1,8 +1,8 @@
 # Laravel and React SPA Forum
 
-This application can be used as **starter kit** if you want to get started building an single page application with **Laravel** 
+<!-- This application can be used as **starter kit** if you want to get started building an single page application with **Laravel** 
 and **React JS**. 
-This is a classic forum using features like registration and signing in,  managing threads, commenting, searching threads, like threads and replies, mark replies as best and many other feature which can be found in most web applications.
+This is a classic forum using features like registration and signing in,  managing threads, commenting, searching threads, like threads and replies, mark replies as best and many other feature which can be found in most web applications. -->
 
 ## Technologies
 
@@ -19,7 +19,7 @@ store for the application.
 * SQLite3 for development and MySQL for production.
 * [Laravel](http://www.laravel.com) - A PHP Full stack framework
 * [Tymon/Jwt-auth](https://jwt-auth.readthedocs.io/en/develop/) - A library used in laravel for Json Web Token authentication
-
+<!--
 ## Features
 
 * CRUD (create / read / update / delete) on threads.
@@ -109,9 +109,10 @@ store for the application.
 
 * Start client in development mode. You should be able to go to `http://localhost:3000`
 
-
+-->
 
 ## State of the project
 
- The project is still incomplete and halted development
+The project was ass part of the course System analysis and Design (CSE471) at Brac University, Dhaka, Bangladesh.
+
 
